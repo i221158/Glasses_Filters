@@ -1,0 +1,29 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+
+# VS / JetBrains Rider
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Auto-generated
+*.log
+*.pidb
+*.booproj
+*.svd
+
+# Cache
+*.apk
+*.aab
